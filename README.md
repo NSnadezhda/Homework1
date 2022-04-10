@@ -1,1 +1,4 @@
 # Homework1
+ggg
+ddd
+mmm
